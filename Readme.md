@@ -88,7 +88,8 @@ To run the project locally:
    ```bash
    # Run backend
    cd backend
-   npm start
+  npx nodemon index.js
+
 
    # Run frontend in another terminal
    cd frontend
