@@ -66,8 +66,8 @@ To run the project locally:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/mern-ecommerce.git
-   cd mern-ecommerce
+   git clone https://github.com/Khwajazeeshan/E-commerce-Website--MERN-STACK
+   cd E-commerce-Website--MERN-STACK
    ```
 
 2. **Install Dependencies**
